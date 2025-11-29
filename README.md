@@ -2,7 +2,6 @@
 
 **Student:** Angel Valencia 
 **Date:** 26/11/2025  
-**Course:** Operating Systems  
 
 ---
 
@@ -97,3 +96,4 @@ El reporte final se guardó como `performance-report.txt` dentro de la carpeta `
 Este laboratorio fortaleció las competencias prácticas en administración de sistemas Linux, combinando la gestión de usuarios, grupos y servicios con prácticas de seguridad y automatización. Además, permitió aplicar conceptos de **systemd**, control de permisos y análisis de rendimiento, fundamentales para el rol de administrador o ingeniero de sistemas.
 
 ---
+
