@@ -8,4 +8,5 @@
      CGroup: /system.slice/simple-service.service
              └─13916 "(rvice.sh)"
 
-sep 30 06:56:14 ivan-VirtualBox systemd[1]: Started simple-service.service - Simple Test Service.
+sep 30 06:56:14 angel-VirtualBox systemd[1]: Started simple-service.service - Simple Test Service.
+
